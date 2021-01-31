@@ -4,13 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application was made for learning the fundementals of Dart, Flutter framework, and cross platfrom native applications as a whole
 
-A few resources to get you started if this is your first Flutter project:
+In this project, I was following a tutorial that showed me how to do the following
+    - Create dynamic pages in Flutter
+    - Implement multiple packaages and utilizing them
+    - Utilizing asets and modifying dpendenciex
+    - Creating a proper UI/UX for such application
+    - Dynamically updating data using SQL within the application
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+When shown the introduction screen and wanting to add a task, follow these steps: 
+    - Click on add button. 
+    - Type in task name and description as well as selecting proper fields
+    - Save. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+When wanting to update a task: 
+    - Secect task to be redirected to task page. 
+    - Edit corresponding fields
+    - Save.
